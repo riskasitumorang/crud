@@ -7,7 +7,7 @@
   }
 </style>
 
-<b>   <a href="index.php" >BACK</a></b>
+<b>   <a href="index.html" >BACK</a></b>
                         
 <title>About</title>
 <meta charset="UTF-8">
